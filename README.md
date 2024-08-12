@@ -1,4 +1,4 @@
-# Breast-Cancer-Diagnostic-Prediction
+# Breast-Cancer-Diagnostic-Prediction Accuracy 99.12%
 ## Business Context:
 Breast cancer is a significant public health concern affecting millions of women worldwide. Early and accurate diagnosis is crucial for successful treatment. This project aims to develop a predictive model to assist in breast cancer diagnosis by analyzing relevant patient data.
 ## Methodology:
